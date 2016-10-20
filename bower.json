@@ -1,0 +1,21 @@
+{
+  "name": "angulartics-scout",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Trolleymusic/angulartics-scout",
+  "authors": [
+    "Wayne Durack <wayne.durack@gmail.com>"
+  ],
+  "description": "Scout plugin for Angulartics",
+  "main": "lib/angulartics-scout.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "lib/index.js"
+  ],
+  "dependencies": {
+    "angulartics": "~0.20"
+  }
+}
